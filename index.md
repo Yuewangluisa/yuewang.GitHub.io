@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Yuewangluisa/yuewang.GitHub.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Yuewangluisa/yuewang.GitHub.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##王悦
+###电话： (+1)518-961-6561/(+86)13821219701 电子邮件： wangy73@rpi.edu
+教育背景 2020年12月 毕业
+2019.09-2020.12 伦斯勒理工学院（美国） 商业分析 硕士
+• 学习成绩 绩点 4.0/4.0
+• 掌握课程 机器学习，数据挖掘，数据分析及可视化，信息系统
+2015.09-2019.06 南开大学 国际商务 学士
+• 学习成绩 排名5/35，平均分89，获南开大学公能奖学金，综合二等奖学金
+• 交换经历 英属哥伦比亚大学暑期交换，获交换奖学金（2018.07-2018.08）
+实习经历
+2020.01-2020.05 Outmatch Inc Capstone 项目组长 特洛伊，美国
+• 作为组长，负责整个算法公平性项目的计划与统筹工作。并及时与客户沟通，不断修正模型
+• 共同完成算法公平性的建模工作，整理理论基础并调用数个合适的package以优化公司现有模型
+2018.09 -2019.01 西门子中国 IT部门助理 北京
+• 收集并整理16家分公司的相关信息和数据，利用Excel来汇总并可视化结果。并负责西门子北京
+总部信息交换平台的定期维护
+• 参加全球级别的会议和定期的团队会议，并负责会议记录与管理项目进度
+2017.09.-2018.01 中美史克 财务实习生 天津
+• 负责人民币，外币，关税等发票登记入账，状态追踪，报关相关事宜预付款以及订单追踪
+• 整理各月各部门Opex Report 和 Capex Report、库存物料报告、write-off报告，熟练使用Excel各
+种函数进行表格制作
+学生活动
+2019.09 第74届联合国全体大会 中国青年代表 纽约，美国
+• 参与联合国南南合作环境保护大会，以中国青年代表身份参与各国部长的圆桌会议并发言
+• 以中国青年代表身份参与金融届组织的反对现代奴隶制与人口贩卖动员大会
+2015.7 -2015.09 海外志愿者 圣彼得堡，俄罗斯
+• 在俄期间，负责向俄罗斯孤儿院的孩子们讲授英语课程，传播中国文化；积极开展了中俄青年
+的交流论坛，吸引了不少当地青年来参加，二个月内，累计授课近200小时
+• 志愿者期间表现优秀，获得了圣彼得堡青年志愿服务机构颁发的特别贡献奖
+2016.11-2017.11 AIESEC(国际经济学商学学生联合会) 南开分会副主席 天津
+• 为海外学生提供来华交流机会平台，对接超过20家公司。帮助4名外国实习生来华
+• 深度开发天津教育与酒店市场，与天津的4家五星级酒店签订合同，业绩为全国第一
+其他技能
+• 软件技能 熟练使用Python, R, SQL进行数据分析与建模
+• 语言技能 英语（雅思7，GMAT710），德语（欧标b1）
